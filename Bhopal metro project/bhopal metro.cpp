@@ -110,7 +110,7 @@ int main()
 
     while (true)
     {
-        cout << "\n\n\t\tBhopal Metro Project - Developed by Ajay Soni\n\n";
+        cout << "\n\n\t\tBhopal Metro Project - Developed by Karan kumar singh\n\n";
         for (int i = 0; i <= 52; i++)
             cout << "Enter --> " << i << " for " << stations[i] << endl;
 
